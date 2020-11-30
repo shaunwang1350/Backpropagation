@@ -8,12 +8,16 @@ In this Programming Assignment: Backpropagation on Coursera's Mathematics for Ma
 
 ## Processes
 - Using Numpy matrices, I implemented a backpropagation Jacobians with a 3 layer neutral net. 
+
 <div style="text-align:center"><img src="image/formula1.png" /></div>
 <div style="text-align:center"><img src="image/formula2.png" /></div>
+
 - Wrote algorthim for layer 3, 2, 1 of Jacobian for the cost fuction / weight partial derivatives.
+
 <div style="text-align:center"><img src="image/formula3.png" /></div>
 <div style="text-align:center"><img src="image/formula4.png" /></div>
 <div style="text-align:center"><img src="image/formula5.png" /></div>
+
 - Tested my results through tracing 50,000 iterations using plot_training from the matplotlib class.
 
 ## Technologies Used
