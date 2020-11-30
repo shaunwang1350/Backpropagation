@@ -1,5 +1,8 @@
 # Backpropagation
-
+![Developement](https://img.shields.io/badge/progress-complete-green)
+![reposize](https://img.shields.io/github/repo-size/shaunwang1350/Backpropagation)
+![commit](https://img.shields.io/github/last-commit/shaunwang1350/Backpropagation)
+![githubfollows](https://img.shields.io/github/followers/shaunwang1350?style=social)
 ## Summary
 In this Programming Assignment: Backpropagation on Coursera's Mathematics for Machine Learning: MultiVariate (Imperial College London), I trained a neural network to draw a curve. The curve takes one input variable, the amount travelled along the curve from 0 to 1, and returns 2 outputs, the 2D coordinates of the position of points on the curve.
 
